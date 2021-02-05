@@ -5,6 +5,7 @@ permalink: /teaching/2020-spring
 venue: "Electrical and Computer Engineering, Cal State LA"
 date: 2020-01-20
 location: "Los Angeles, CA, USA"
+excerpt: false
 ---
 
 ## EE 2440 (Digital Engineering)
