@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering (minor in Computer Engineering and Asian American Studies), Northwestern University, Evanston, IL, 2014
+* Ph.D in Computer Engineering, Northwestern University, Evanston, IL, 2019
 
 Work experience
 ======
