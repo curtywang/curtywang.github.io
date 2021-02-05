@@ -11,31 +11,21 @@ redirect_from:
 
 ## Education
 
-* B.S. in Biomedical Engineering, Northwestern University, Evanston, IL, 2014
-    * Minor in Asian American Studies
-    * Minor in Computer Engineering
+* B.S. in Biomedical Engineering (Computer Engineering Option), Northwestern University, Evanston, IL, 2014
+  * Minor in Asian American Studies
 * Ph.D in Computer Engineering, Northwestern University, Evanston, IL, 2019
 
 ## Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019 to present: Assistant Professor
+  * Electrical and Computer Engineering
+  * California State University, Los Angeles
   
 ## Skills
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Embedded systems design
+* High-performance computing
+* Machine learning
 
 ## Publications
 
