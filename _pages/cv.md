@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Biomedical Engineering (minor in Computer Engineering and Asian American Studies), Northwestern University, Evanston, IL, 2014
+## Education
+
+* B.S. in Biomedical Engineering, Northwestern University, Evanston, IL, 2014
+    * Minor in Asian American Studies
+    * Minor in Computer Engineering
 * Ph.D in Computer Engineering, Northwestern University, Evanston, IL, 2019
 
-Work experience
-======
+## Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -26,8 +28,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -35,24 +37,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 43 different slack teams
