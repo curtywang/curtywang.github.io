@@ -7,10 +7,10 @@ date: 2021-01-20
 location: "Los Angeles, CA, USA"
 ---
 
-# EE 2450 (Embedded Programming 1)
+## EE 2450 (Embedded Programming 1)
 
 As part of curriculum updates, EE 2450 now features microcontrollers and the use of MicroPython.
 
-# EE 5450 (Advanced Topics in Embedded Systems)
+## EE 5450 (Advanced Topics in Embedded Systems)
 
 Advanced topics in cyber-physical systems.
